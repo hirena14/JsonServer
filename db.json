@@ -1,0 +1,75 @@
+{
+  "lastName": "Dove",
+  "firstName": "Michal",
+  "middleName": "H",
+  "auditNumber": "99999999-12",
+  "dob": "01/010/2020",
+  "gender": "M",
+  "fromDate": "10/01/1999",
+  "primacy": [
+    "Primary",
+    "Secondary",
+    "Tertiary",
+    "Recovery"
+  ],
+  "type": [
+    "Commercial",
+    "Medicare",
+    "Medicaid",
+    "MVA",
+    "Third Party",
+    "WC"
+  ],
+  "p": "P",
+  "h": "H",
+  "carrierName": "AMTRUST NORTH AMETYUYHYHYH",
+  "carrierNumber": "03000",
+  "policyNumber": "12345",
+  "effDate": "02/02/2017",
+  "expDate": "12/31/2020",
+  "expRsn": [
+    "OI Termed",
+    "Edit Error",
+    "No Overlap",
+    "OI Not Identified",
+    "Exhausted",
+    "Litigation",
+    "No Accident",
+    "Champus/Tricare",
+    "VA Benefits",
+    "No VA Benefits",
+    "Inactive VA Benefits"
+  ],
+  "icdaNum": "10",
+  "recoveryIcda": "M25.532",
+  "recoveryDes": "PAIN IN LEFT WRIST",
+  "icada2": "S52.502D",
+  "icada3": "S52.502D",
+  "icada4": "S52.502D",
+  "icada5": "S52.502D",
+  "userID": "9999",
+  "fmDate": "99/99/99",
+  "fmTime": "99:99:99",
+  "lob": [
+    "Medical & Retirement"
+  ],
+  "requestType": [
+    "Other Accident / Accident Type Unknown",
+    "MVA",
+    "New MVA",
+    "Closed MVA Open Over 1 Year",
+    "Possible MVA Benefits Exhausted",
+    "COB Verification"
+  ],
+  "comments": [
+    "119 Review: MVA, please review and update COB edit on COB Carrier Details",
+    "119 Review: WC, please review and update COB edit on COB Carrier Details",
+    "119 Review: WC Apportioned letter received, please review and update COB Carrier Details",
+    "119 Review: OA or type unknown, please review and update COB Carrier Details",
+    "019 Review: Please reviwe and update Other Carrier line on COB Carrier Details",
+    "024 Review: Please review and udpate Mdcr Carrier line on COB Carrier Details",
+    "120 Review: Please review and update Other Carrier line on COB Carrier Details"
+  ],
+  "otherCarrier": "State Farm Auto",
+  "stauts": "Initiated"
+}
